@@ -1,50 +1,12 @@
-# React + TypeScript + Vite
+Modelling Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my modelling portfolio – a beautifully designed and responsive website built with React, Vite, Tailwind CSS, and TypeScript. This site showcases a curated selection of my best photos, offering a sleek and modern experience for visitors to explore my work.
 
-Currently, two official plugins are available:
+Features
+	•	Responsive Design: The site adapts seamlessly across all devices, ensuring an optimal viewing experience whether on desktop, tablet, or mobile.
+	•	Smooth Animations: Using Framer Motion, the site delivers fluid animations that bring the experience to life and add an engaging touch to every scroll.
+	•	Intuitive Navigation: A clean and easy-to-use navbar allows users to explore different sections of the site, including the Hero, About, Gallery, and Contact pages.
+	•	Gallery Showcase: A stunning display of my best modelling photos, allowing users to see my work in a visually appealing grid layout with hover effects.
+	•	Contact Form: A user-friendly contact section to get in touch, featuring essential information and links to my social profiles.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+This portfolio is designed to highlight my passion for modelling and photography in a polished, professional way, and is perfect for any creative professional looking to showcase their work online.
