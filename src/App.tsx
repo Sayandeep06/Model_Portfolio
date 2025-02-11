@@ -301,29 +301,29 @@ const Gallery = () => {
     {
       id: 3,
       src: pic3,
-      alt: "Ekta Fashion 1",
-      category: "fashion",
+      alt: "Ekta christmas",
+      category: "potraits",
       size: "large"
     },
     {
       id: 4,
       src: pic4,
-      alt: "Ekta Fashion 2",
-      category: "fashion",
+      alt: "Ekta moments2",
+      category: "moments",
       size: "large"
     },
     {
       id: 5,
       src: pic5,
-      alt: "Ekta Fashion 2",
-      category: "fashion",
+      alt: "Ekta moments 2",
+      category: "moments",
       size: "large"
     },
     {
       id: 6,
       src: pic6,
-      alt: "Ekta Fashion 2",
-      category: "fashion",
+      alt: "Ekta moments 2",
+      category: "moments",
       size: "small"
     },
     // Add more photos here as needed
