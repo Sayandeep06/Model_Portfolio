@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Custom Fonts */
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+.font-cormorant {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.font-italiana {
+  font-family: 'Italiana', serif;
+}

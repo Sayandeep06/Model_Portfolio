@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Import the Darumadrop One font */
+@import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&display=swap');
+
+/* Then create a custom class for the font */
+.font-daruma {
+  font-family: 'Darumadrop One', cursive;
+}
+
+/* Keep your existing App.css styles if any */
