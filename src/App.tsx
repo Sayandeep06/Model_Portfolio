@@ -5,7 +5,6 @@ import pic2 from './assets/pic2.jpg'
 import pic3 from './assets/pic3.jpg'
 import pic4 from './assets/pic4.jpg'
 import pic5 from './assets/pic5.jpg'
-import pic6 from './assets/pic6.jpg'
 import star from './assets/star.png'
 import { smoothScroll } from './utils/smoothScroll'
 import bouquet from './assets/bouquet.png'
@@ -318,13 +317,6 @@ const Gallery = () => {
       alt: "Ekta moments 2",
       category: "moments",
       size: "large"
-    },
-    {
-      id: 6,
-      src: pic6,
-      alt: "Ekta moments 2",
-      category: "moments",
-      size: "small"
     },
     // Add more photos here as needed
   ];
